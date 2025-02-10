@@ -1,1 +1,4 @@
-TgBRAFEAMgA5AC0AOQA0AEsAOAA0AC0AUQBCAFAAUAA2AC0AVwA2AEYAQgBDAC0AOQBRAEIAUAA2AA==
+Hi / Salut ! 
+
+My name is Pierre, 
+I love to code and work on small projects like video games and simulations.
