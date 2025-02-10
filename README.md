@@ -9,6 +9,7 @@ I spend a lot of time coding and working on small projects like video games, mod
 # Last Projects : 
 ## compute shader based LENIA simulation : 
 uploding soon...
+
 ![LENIA](https://github.com/user-attachments/assets/e8ec2050-4a83-4594-9376-a57d182d4700)
 
 ## CANDY-KANE, a small submition for the christmas Jame Gam 2024 : 
