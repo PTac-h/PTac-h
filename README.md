@@ -8,7 +8,7 @@ I spend a lot of time coding and working on small projects like video games, mod
 
 # Last Projects : 
 
-  - ## PTABundleToolkit, a simple devtool enabling the possibility to import native unity AssetBundle at runtime : 
+  - ## PTABundleToolkit, a simple devtool enabling the possibility to import native unity AssetBundle at runtime inside compiled unity games : 
   [PTABundleToolkit](https://github.com/PTac-h/PTABundleToolkit)
 
   - ## compute shader based LENIA simulation : 
