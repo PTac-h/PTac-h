@@ -7,7 +7,8 @@ My name is Pierre,
 I spend a lot of time coding and working on small projects like video games, mods, and weird simulations.
 
 # Last Projects : 
-
+  - ## NeuralNet : a simple neural network implementation in pure python
+  
   - ## compute shader based LENIA simulation : 
   uploading soon...
 
