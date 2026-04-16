@@ -8,7 +8,7 @@ I spend a lot of time coding and working on small projects like video games, mod
 
 # Last Projects : 
   - ## NeuralNet : a simple neural network implementation in pure python
-  
+  https://github.com/PTac-h/neuralnet
   - ## compute shader based LENIA simulation : 
   uploading soon...
 
