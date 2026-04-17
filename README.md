@@ -1,6 +1,6 @@
 <img width="1920" height="400" alt="Banner" src="https://github.com/user-attachments/assets/a0471abf-e6aa-4472-96f5-a91f9a13d14d" />
 
-I build small, self-contained projects exploring ideas like neural networks, artificial life, game dev, and modding.
+I build small, self-contained projects exploring ideas like simulations, artificial life, game dev, modding and more !
 
 ---
 
