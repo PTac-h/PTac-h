@@ -1,17 +1,6 @@
-# Pierre  B.
-
-Developer focused on creative and interactive coding.
+<img width="1920" height="400" alt="Banner" src="https://github.com/user-attachments/assets/a0471abf-e6aa-4472-96f5-a91f9a13d14d" />
 
 I build small, self-contained projects exploring ideas like neural networks, artificial life, game dev, and modding.
-
----
-
-## Tech
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
 
