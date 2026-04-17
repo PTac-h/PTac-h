@@ -33,6 +33,7 @@ Real-time LENIA simulation powered by GPU compute shaders, exploring emergent be
 
 ### KnockOut Warning - A mod for Content Warning
 A simple mod that adds K.O mechanic to Content Warning. 200K + downloads on thunderstore <3
+🔗 https://github.com/PTac-h/KnockOutWarningMod
 
 
 
