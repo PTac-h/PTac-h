@@ -19,12 +19,14 @@ I build small, self-contained projects exploring ideas like neural networks, art
 
 ### NeuralNet
 Minimal neural network implementation in pure Python, built for clarity and experimentation.  
+
 🔗 https://github.com/PTac-h/neuralnet
 
 ---
 
 ### LENIA — Compute Shader Simulation
 Real-time LENIA simulation powered by GPU compute shaders, exploring emergent behaviors.  
+
 *Uploading soon...*
 
 ![LENIA](https://github.com/user-attachments/assets/e8ec2050-4a83-4594-9376-a57d182d4700)
@@ -32,7 +34,8 @@ Real-time LENIA simulation powered by GPU compute shaders, exploring emergent be
 ---
 
 ### KnockOut Warning - A mod for Content Warning
-A simple mod that adds K.O mechanic to Content Warning. 200K + downloads on thunderstore <3
+A simple mod that adds K.O mechanic to Content Warning. 200K + downloads on thunderstore <3.
+
 🔗 https://github.com/PTac-h/KnockOutWarningMod
 
 ![KnockOutWarningBanner](https://github.com/PTac-h/KnockOutWarningMod/assets/152717609/15d616ce-230a-4c64-855d-c3b357678220)
@@ -41,6 +44,7 @@ A simple mod that adds K.O mechanic to Content Warning. 200K + downloads on thun
 
 ### CANDY-KANE
 Arcade-style game created for the Christmas Game Jam 2024.  
+
 🔗 https://johnymerguez.itch.io/candy-kane
 
 ![CANDY01](https://img.itch.zone/aW1hZ2UvMzIwMjkyMS8xOTEyMzk0OC5qcGc=/original/ymQ8Fg.jpg)
