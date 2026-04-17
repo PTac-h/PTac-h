@@ -37,7 +37,6 @@ Arcade-style game created for the Christmas Game Jam 2024.
 🔗 https://johnymerguez.itch.io/candy-kane
 
 ![CANDY01](https://img.itch.zone/aW1hZ2UvMzIwMjkyMS8xOTEyMzk0OC5qcGc=/original/ymQ8Fg.jpg)
-![CANDY02](https://img.itch.zone/aW1hZ2UvMzIwMjkyMS8xOTEyMzk0OS5qcGc=/original/Y8ffDo.jpg)
 
 ---
 
