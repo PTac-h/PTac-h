@@ -1,8 +1,8 @@
-# Pierre
+# Pierre  B.
 
-Developer focused on experimental systems, creative coding, and interactive simulations.
+Developer focused on creative and interactive coding.
 
-I build small, self-contained projects exploring ideas like neural networks, artificial life, and game mechanics.
+I build small, self-contained projects exploring ideas like neural networks, artificial life, game dev, and modding.
 
 ---
 
@@ -28,6 +28,13 @@ Real-time LENIA simulation powered by GPU compute shaders, exploring emergent be
 *Uploading soon...*
 
 ![LENIA](https://github.com/user-attachments/assets/e8ec2050-4a83-4594-9376-a57d182d4700)
+
+---
+
+### KnockOut Warning - A mod for Content Warning
+A simple mod that adds K.O mechanic to Content Warning. 200K + downloads on thunderstore <3
+
+
 
 ---
 
