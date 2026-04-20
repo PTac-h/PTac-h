@@ -7,7 +7,8 @@ Minimal neural network implementation in pure Python, built for clarity and expe
 🔗 https://github.com/PTac-h/neuralnet
 
 <img width="1920" height="175" alt="separator" src="https://github.com/user-attachments/assets/022b551a-f9bf-4813-a50d-76f0c21bf1a2" />
-<img width="1920" height="175" alt="ezgif-6cc2fca53ec29df6" src="https://github.com/user-attachments/assets/6bc3abd0-aeb1-4577-9338-904cb82c749f" />
+<img width="1920" height="175" alt="LENIA" src="https://github.com/user-attachments/assets/17c94c4e-b497-456e-911d-02f3890a843f" />
+
 
 Real-time LENIA simulation powered by GPU compute shaders, exploring emergent behaviors.  
 
