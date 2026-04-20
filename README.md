@@ -12,7 +12,7 @@ Minimal neural network implementation in pure Python, built for clarity and expe
 
 Real-time LENIA simulation powered by GPU compute shaders, exploring emergent behaviors.  
 
-*Uploading soon...*
+🔗 https://github.com/PTac-h/LENIA-Unity
 
 <img width="1920" height="175" alt="separator" src="https://github.com/user-attachments/assets/022b551a-f9bf-4813-a50d-76f0c21bf1a2" />
 <img width="1920" height="175" alt="Content_warning" src="https://github.com/user-attachments/assets/3d5ba6d8-71e6-4ff8-800c-f48fd66097f5" />
