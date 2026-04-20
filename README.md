@@ -6,25 +6,21 @@ Minimal neural network implementation in pure Python, built for clarity and expe
 
 🔗 https://github.com/PTac-h/neuralnet
 
-<img width="1917" height="171" alt="Separator" src="https://github.com/user-attachments/assets/82b1609e-6837-49e4-a552-67533893c51f" />
+<img width="1920" height="175" alt="separator" src="https://github.com/user-attachments/assets/022b551a-f9bf-4813-a50d-76f0c21bf1a2" />
+<img width="1920" height="175" alt="ezgif-6cc2fca53ec29df6" src="https://github.com/user-attachments/assets/6bc3abd0-aeb1-4577-9338-904cb82c749f" />
 
-### LENIA — Compute Shader Simulation
 Real-time LENIA simulation powered by GPU compute shaders, exploring emergent behaviors.  
 
 *Uploading soon...*
 
-![LENIA](https://github.com/user-attachments/assets/e8ec2050-4a83-4594-9376-a57d182d4700)
+<img width="1920" height="175" alt="separator" src="https://github.com/user-attachments/assets/022b551a-f9bf-4813-a50d-76f0c21bf1a2" />
+<img width="1920" height="175" alt="Content_warning" src="https://github.com/user-attachments/assets/3d5ba6d8-71e6-4ff8-800c-f48fd66097f5" />
 
-<img width="1917" height="171" alt="Separator" src="https://github.com/user-attachments/assets/82b1609e-6837-49e4-a552-67533893c51f" />
-
-### KnockOut Warning - A mod for Content Warning
 A simple mod that adds K.O mechanic to Content Warning. 200K + downloads on thunderstore <3.
 
 🔗 https://github.com/PTac-h/KnockOutWarningMod
 
-![KnockOutWarningBanner](https://github.com/PTac-h/KnockOutWarningMod/assets/152717609/15d616ce-230a-4c64-855d-c3b357678220)
-
-<img width="1917" height="171" alt="Separator" src="https://github.com/user-attachments/assets/82b1609e-6837-49e4-a552-67533893c51f" />
+<img width="1920" height="175" alt="separator" src="https://github.com/user-attachments/assets/022b551a-f9bf-4813-a50d-76f0c21bf1a2" />
 
 ### CANDY-KANE
 Arcade-style game created for the Christmas Game Jam 2024.  
